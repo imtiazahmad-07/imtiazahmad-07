@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtiazahmad-07](https://github.com/imtiazahmad-07)
 
-- 💬 Ask me about **Html CSS JS or Python**
+- 💬 Ask me about **Html CSS Bootstrap or JavaScript**
 
 - 📫 How to reach me **imtiazbaluc18@gmail.com**
 
