@@ -7,7 +7,7 @@
 
 - 🌱 I've a strong grip on **HTML , CSS and Bootstrap 5**
 
-- 🌱 I’m currently learning **Java Script ReactJS**
+- 🌱 I’m currently learning **Java Script & ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtiazahmad-07](https://github.com/imtiazahmad-07)
 
