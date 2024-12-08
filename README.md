@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ea4ee19f-df54-4ae2-a5e7-e4277a0d300c)
 <h1 align="center">Hi , I'm Imtiaz Ahmad  </h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -33,7 +33,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-    <a href="https://reactjs.org/"><i class="fab fa-react"></i> React</a>
+    <a href="https://reactjs.org/">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Freact-2&psig=AOvVaw3FLjk0mzRh2cmdM8RHQoQL&ust=1733733648713000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKih5LPjl4oDFQAAAAAdAAAAABAI" alt="React js" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazahmad-07&show_icons=true&locale=en&layout=compact" alt="imtiazahmad-07" /></p>
