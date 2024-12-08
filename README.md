@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
     <a href="https://reactjs.org/">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Freact-2&psig=AOvVaw3FLjk0mzRh2cmdM8RHQoQL&ust=1733733648713000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKih5LPjl4oDFQAAAAAdAAAAABAI" alt="React js" width="40" height="40"/>
+        <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React js" width="40" height="40"/>
     </a>
 </p>
 
