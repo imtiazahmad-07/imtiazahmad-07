@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazahmad-07&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazahmad-07" /> </p>
 
-- 🌱 I've a strong grip on **HTML , CSS and Bootstrap 5**
-
-- 🌱 I’m currently learning **Java Script & ReactJS**
+- 🌱 I've a strong grip on **HTML , CSS , Javascript, Bootstrap 5, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imtiazahmad-07](https://github.com/imtiazahmad-07)
 
-- 💬 Ask me about **Html CSS Bootstrap or JavaScript**
+- 💬 Ask me about **Html CSS Bootstrap or JavaScript and React**
 
 - 📫 How to reach me **imtiazbaluc18@gmail.com**
 
@@ -34,6 +32,9 @@
 </a>
     <a href="https://reactjs.org/">
         <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React js" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org/">
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="React js" width="40" height="40"/>
     </a>
 </p>
 
