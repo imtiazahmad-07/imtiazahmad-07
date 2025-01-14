@@ -5,10 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazahmad-07&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazahmad-07" /> </p>
 
 - 🌱 I've a strong grip on **HTML , CSS , Javascript, Bootstrap 5, ReactJS**
-
+  
+- Currently, I'm learning **NextJs**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/imtiazahmad-07](https://github.com/imtiazahmad-07)
 
-- 💬 Ask me about **Html CSS Bootstrap or JavaScript and React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript and React**
 
 - 📫 How to reach me **imtiazbaluc18@gmail.com**
 
