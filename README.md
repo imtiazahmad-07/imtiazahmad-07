@@ -6,7 +6,7 @@
 
 - 🌱 I've a strong grip on **HTML , CSS , Javascript, Bootstrap 5, ReactJS**
   
-- Currently, I'm learning **NextJs**
+- Currently, I'm learning **NextJs & Pyhton**
   
 - 👨‍💻 All of my projects are available at [https://github.com/imtiazahmad-07](https://github.com/imtiazahmad-07)
 
