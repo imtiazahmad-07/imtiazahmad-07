@@ -38,7 +38,7 @@
     <a href="https://redux.js.org/">
         <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="React js" width="40" height="40"/>
     </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" style="color:white;">
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="30" height="40"/>
   </a>
   <a href="https://nextjs.org/">
