@@ -28,33 +28,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="50" height="50" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" width="50" height="50" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="50" height="50" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60" /> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" /> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="60" height="60" /> </a> <a href="https://redux.js.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="Redux" width="60" height="60" /> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="Python" width="60" height="60" /> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60" /> </a> </p>
 ---
 
 ### 📊 GitHub Stats
