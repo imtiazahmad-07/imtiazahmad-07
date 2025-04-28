@@ -38,6 +38,9 @@
     <a href="https://redux.js.org/">
         <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="React js" width="40" height="40"/>
     </a>
+  <a href="https://www.python.org/">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiazahmad-07&show_icons=true&locale=en&layout=compact" alt="imtiazahmad-07" /></p>
