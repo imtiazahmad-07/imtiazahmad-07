@@ -36,10 +36,10 @@
         <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React js" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org/">
-        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="React js" width="40" height="30"/>
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="React js" width="40" height="40"/>
     </a>
   <a href="https://www.python.org/">
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"/>
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="30" height="40"/>
   </a>
 </p>
 
